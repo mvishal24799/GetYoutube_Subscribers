@@ -4,7 +4,8 @@
   "description": "This is Get_YouTube_Subscribers, backend project by Vishal",
   "main": "index.js",
   "scripts": {
-    "test": "mocha _tests_/test.js --timeout 30000"
+    "test": "mocha _tests_/test.js --timeout 30000",
+    "start":" node index.js"
   },
   "author": "Vishal Dbz",
   "license": "ISC",
